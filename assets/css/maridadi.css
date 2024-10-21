@@ -1,0 +1,19 @@
+.Cars{
+    background-color: burlywood;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    color: aqua;
+    text-align: center;
+}
+.Fruits{
+    background-color: chartreuse;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    color: slategray;
+    text-align: center;
+}
+#Students{
+    background-color: cadetblue;
+}
